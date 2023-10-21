@@ -16,7 +16,7 @@
     "@trpc/client": "^10.32.0",
     "@trpc/server": "^10.32.0",
     "superjson": "1.9.1",
-    "zod": "^3.21.4"
+    "zod": "^3.22.4"
   },
   "devDependencies": {
     "@acme/eslint-config": "^0.1.0",
