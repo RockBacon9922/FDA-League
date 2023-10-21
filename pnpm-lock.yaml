@@ -93,8 +93,8 @@ importers:
         specifier: ~3.20.0
         version: 3.20.0(react-native@0.71.8)(react@18.2.0)
       superjson:
-        specifier: 1.9.1
-        version: 1.9.1
+        specifier: 1.13.3
+        version: 1.13.3
     devDependencies:
       '@acme/api':
         specifier: ^0.1.0
@@ -184,8 +184,8 @@ importers:
         specifier: 18.2.0
         version: 18.2.0(react@18.2.0)
       superjson:
-        specifier: 1.9.1
-        version: 1.9.1
+        specifier: 1.13.3
+        version: 1.13.3
       zod:
         specifier: ^3.21.4
         version: 3.21.4
@@ -239,8 +239,8 @@ importers:
         specifier: ^10.32.0
         version: 10.32.0
       superjson:
-        specifier: 1.9.1
-        version: 1.9.1
+        specifier: 1.13.3
+        version: 1.13.3
       zod:
         specifier: ^3.21.4
         version: 3.21.4
@@ -10251,8 +10251,8 @@ packages:
     resolution: {integrity: sha512-Mu7R0g4ig9TUuGSxJavny5Rv0egCEtpZRNMrZaYS1vxkiIxGiGUwoezU3LazIQ+KE04hTrTfNPgxU5gzi7F5Pw==}
     dev: false
 
-  /superjson@1.9.1:
-    resolution: {integrity: sha512-oT3HA2nPKlU1+5taFgz/HDy+GEaY+CWEbLzaRJVD4gZ7zMVVC4GDNFdgvAZt6/VuIk6D2R7RtPAiCHwmdzlMmg==}
+  /superjson@1.13.3:
+    resolution: {integrity: sha512-mJiVjfd2vokfDxsQPOwJ/PtanO87LhpYY88ubI5dUB1Ab58Txbyje3+jpm+/83R/fevaq/107NNhtYBLuoTrFg==}
     engines: {node: '>=10'}
     dependencies:
       copy-anything: 3.0.4
